@@ -1,4 +1,4 @@
-![LinkedIn Background](https://drive.google.com/file/d/1c5w-db2-fr9GbdJTvNAs3BJJxr-MI2ct/view?usp=sharing)
+![ Background](https://drive.google.com/file/d/1c5w-db2-fr9GbdJTvNAs3BJJxr-MI2ct/view?usp=sharing)
 
 
 <h1 align="center">Hi 👋, I'm Sarveshkumar Agrawal</h1>
