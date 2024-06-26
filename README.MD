@@ -1,4 +1,4 @@
-![LinkedIn Background](https://github.com/prajapatdip/prajapatdip/assets/104031556/3fc4d4e9-a835-4316-9227-f816d9ca87c7)
+![LinkedIn Background](https://drive.google.com/file/d/1c5w-db2-fr9GbdJTvNAs3BJJxr-MI2ct/view?usp=sharing)
 
 
 <h1 align="center">Hi 👋, I'm Sarveshkumar Agrawal</h1>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prajapatdip?tab=repositories](https://github.com/prajapatdip?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Sarvesh6245?tab=repositories)
 
 - 📫 How to reach me **linkedin.com/in/dip-prajapat-488789227**
 
