@@ -1,4 +1,4 @@
-![ Background](https://drive.google.com/file/d/1c5w-db2-fr9GbdJTvNAs3BJJxr-MI2ct/view?usp=sharing)
+![ Background](https://github.com/Sarvesh6245/Sarvesh6245/blob/main/Linkdin%20banner.png?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Sarveshkumar Agrawal</h1>
