@@ -32,3 +32,7 @@
 
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Sarvesh6245&theme=tokyonight" /></p>
+
+### Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh6245)
+
