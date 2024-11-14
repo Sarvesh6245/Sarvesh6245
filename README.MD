@@ -31,7 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarvesh6245&show_icons=true&locale=en&layout=compact" alt="Sarvesh6245" /></p>
 
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=Sarvesh6245&theme=tokyonight" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh6245&theme=tokyonight)
+
 
 
 
