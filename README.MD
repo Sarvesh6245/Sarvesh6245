@@ -30,8 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarvesh6245&show_icons=true&locale=en&layout=compact" alt="Sarvesh6245" /></p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh6245&theme=tokyonight" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh6245&theme=tokyonight)
 
 
 
