@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarvesh6245?tab=repositories)
 
-- 📫 How to reach me **[https://www.linkedin.com/in/sarveshkumar-agrawal-1b540b228/)**
+- 📫 How to reach me **[www.linkedin.com/in/sarvesh6245)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
